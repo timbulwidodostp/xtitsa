@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtitsa Interrupted time-series analysis for panel data Use xtitsa With STATA 19
