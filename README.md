@@ -1,6 +1,8 @@
 # xtitsa
 Interrupted time-series analysis for panel data Use xtitsa With STATA 19
 
+https://www.youtube.com/watch?v=lGwJJhuqu1I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
